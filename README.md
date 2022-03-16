@@ -1,4 +1,4 @@
-# totos-crystal-ball
+# Classifying the Field
 A collection of algorithms for predicting the outcome of F1 races.
 
 ## Scope
