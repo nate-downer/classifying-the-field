@@ -1,0 +1,21 @@
+,raceId,round,name,botgId,winner,dnf1,randomDriver,randomId,randomPos
+0,1052,1,Bahrain Grand Prix,62,Lewis Hamilton,Nikita Mazepin,Antonio Giovinazzi,841.0,12.0
+1,1053,2,Emilia Romagna Grand Prix,63,Max Verstappen,Nicholas Latifi,Sebastian Vettel,20.0,15.0
+2,1054,3,Portuguese Grand Prix,64,Lewis Hamilton,Kimi Raikkonen,George Russell,847.0,16.0
+3,1055,4,Spanish Grand Prix,65,Lewis Hamilton,Yuki Tsunoda,Daniel Ricciardo,817.0,6.0
+4,1056,5,Monaco Grand Prix,66,Max Verstappen,Charles Leclerc,Lando Norris,846.0,3.0
+5,1057,6,Azerbaijan Grand Prix,67,Sergio Perez,Esteban Ocon,Yuki Tsunoda,852.0,7.0
+6,1059,7,French Grand Prix,68,Max Verstappen,Nikita Mazepin,Sergio Perez,815.0,3.0
+7,1058,8,Styrian Grand Prix,69,Max Verstappen,Pierre Gasly,Nikita Mazepin,853.0,18.0
+8,1060,9,Austrian Grand Prix,70,Max Verstappen,Esteban Ocon,Valtteri Bottas,822.0,2.0
+9,1061,10,British Grand Prix,71,Lewis Hamilton,Max Verstappen,Lewis Hamilton,1.0,1.0
+10,1062,11,Hungarian Grand Prix,72,Esteban Ocon,Sebastian Vettel,Mick Schumacher,854.0,12.0
+11,1063,12,Belgian Grand Prix,73,Max Verstappen,Lance Stroll,Lance Stroll,840.0,20.0
+12,1064,13,Dutch Grand Prix,74,Max Verstappen,Nikita Mazepin,Max Verstappen,830.0,1.0
+13,1065,14,Italian Grand Prix,75,Daniel Ricciardo,Yuki Tsunoda,Nicholas Latifi,849.0,11.0
+14,1069,17,United States Grand Prix,77,Max Verstappen,Pierre Gasly,Carlos Sainz,832.0,7.0
+15,1070,18,Mexico City Grand Prix,78,Max Verstappen,Yuki Tsunoda,Charles Leclerc,844.0,5.0
+16,1071,19,São Paulo Grand Prix,79,Lewis Hamilton,Lance Stroll,Pierre Gasly,842.0,7.0
+17,1051,20,Qatar Grand Prix,80,Lewis Hamilton,Valtteri Bottas,Esteban Ocon,839.0,5.0
+18,1072,21,Saudi Arabian Grand Prix,81,Lewis Hamilton,Mick Schumacher,Sebastian Vettel,20.0,16.0
+19,1073,22,Abu Dhabi Grand Prix,82,Max Verstappen,Kimi Raikkonen,Fernando Alonso,4.0,8.0
