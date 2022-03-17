@@ -7,4 +7,6 @@ This report explores the extent to which it is possible to model the finishing o
 Additionally this report evaluates how well the predictions of the trained models stack up against actual Formula One fans. By simulating all of the models predictions for the 2021 season, and comparing them to the predictions submitted to the “Back of the Grid” podcast’s predictions league, this report further demonstrates these models' weakness at predicting specific outcomes.
 
 ## Data
-Most of the data is sourced from [this wonderful dataset](https://www.kaggle.com/rohanrao/formula-1-world-championship-1950-2020) on kaggle, with additional data scrubbed from F1's website.
+Most of the data is sourced from [this wonderful dataset](https://www.kaggle.com/rohanrao/formula-1-world-championship-1950-2020) on kaggle, with additional data scrubbed from [F1's website](https://www.formula1.com/en/results.html).
+
+The data used to compare the models' performance to the guesses of actual people was scrobbed from the [Back of the Grid website](https://backofthegrid.com/prediction-results#).
