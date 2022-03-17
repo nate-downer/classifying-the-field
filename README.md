@@ -9,4 +9,4 @@ Additionally this report evaluates how well the predictions of the trained model
 ## Data
 Most of the data is sourced from [this wonderful dataset](https://www.kaggle.com/rohanrao/formula-1-world-championship-1950-2020) on Kaggle, with additional data scrubbed from [F1's website](https://www.formula1.com/en/results.html).
 
-The data used to compare the models' performance to the guesses of actual people was scrobbed from the [Back of the Grid website](https://backofthegrid.com/prediction-results#).
+The data used to compare the models' predictions to guesses made by actual people was scrubbed from the [Back of the Grid website](https://backofthegrid.com/prediction-results#).
