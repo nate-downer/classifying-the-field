@@ -14,4 +14,4 @@ Most of the data is sourced from [this wonderful dataset](https://www.kaggle.com
 The data used to compare the models' predictions to guesses made by actual people was scrubbed from the [Back of the Grid website](https://backofthegrid.com/prediction-results#).
 
 ## A Note on Predictability
-![alt text](https://github.com/nate-downer/classifying-the-field/blob/Predictability Dashboard.png?raw=true)
+![alt text](https://github.com/nate-downer/classifying-the-field/blob/predictability-dashboard.png?raw=true)
